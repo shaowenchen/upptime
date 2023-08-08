@@ -16,5 +16,5 @@ sites:
 
 status-website:
   cname: upptime.chenshaowen.com
-  logoUrl: https://www.chenshaowen.com/favicon.ico
+  logoUrl: https://www.chenshaowen.com/logo.png
   name: Upptime
