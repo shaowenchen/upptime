@@ -6,11 +6,6 @@ sites:
   - name: www.chenshaowen.com
     url: https://www.chenshaowen.com
     maxResponseTime: 1000
-  - name: www.chenshaowen.com-tcp
-    check: "tcp-ping"
-    url: www.chenshaowen.com
-    port: 443
-    maxResponseTime: 1000
   - name: chatgpt.chenshaowen.com
     url: https://chatgpt.chenshaowen.com
     maxResponseTime: 1000
