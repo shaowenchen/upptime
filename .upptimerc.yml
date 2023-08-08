@@ -5,14 +5,44 @@ repo: upptime # The name of this repository
 sites:
   - name: www.chenshaowen.com
     url: https://www.chenshaowen.com
-    icon: https://www.chenshaowen.com/favicon.ico
-    maxResponseTime: 2000
+    maxResponseTime: 1000
   - name: www.chenshaowen.com-tcp
     check: "tcp-ping"
     url: www.chenshaowen.com
     port: 443
-    icon: https://www.chenshaowen.com/favicon.ico
-    maxResponseTime: 2000
+    maxResponseTime: 1000
+  - name: chatgpt.chenshaowen.com
+    url: https://chatgpt.chenshaowen.com
+    maxResponseTime: 1000
+  - name: net.chenshaowen.com-tcp
+    check: "tcp-ping"
+    url: net.chenshaowen.com
+    port: 443
+    maxResponseTime: 1000
+  - name: net.chenshaowen.com
+    url: https://net.chenshaowen.com
+    maxResponseTime: 1000
+  - name: www
+    url: $WWW_URL
+    maxResponseTime: 1000
+  - name: account
+    url: $ACCOUNT_URL
+    maxResponseTime: 1000
+  - name: payment
+    url: $PAYMENT_URL
+    maxResponseTime: 1000
+  - name: chains
+    url: $CHAINS_URL
+    maxResponseTime: 1000
+  - name: upload
+    url: $UPLOAD_URL
+    maxResponseTime: 1000
+  - name: data
+    url: $DATA_URL
+    maxResponseTime: 1000
+  - name: one-api
+    url: $ONE_API_URL
+    maxResponseTime: 1000
 
 status-website:
   cname: upptime.chenshaowen.com
