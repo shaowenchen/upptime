@@ -10,7 +10,7 @@ sites:
   - name: www.chenshaowen.com-tcp
     check: "tcp-ping"
     url: www.chenshaowen.com
-    port: 53
+    port: 443
     icon: https://www.chenshaowen.com/favicon.ico
     maxResponseTime: 2000
 
