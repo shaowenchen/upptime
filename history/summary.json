@@ -23,18 +23,18 @@
     "icon": "https://www.chenshaowen.com/favicon.ico",
     "slug": "www-chenshaowen-com-tcp",
     "status": "down",
-    "uptime": "93.90%",
-    "uptimeDay": "93.90%",
-    "uptimeWeek": "93.90%",
-    "uptimeMonth": "93.90%",
-    "uptimeYear": "93.90%",
+    "uptime": "29.06%",
+    "uptimeDay": "29.06%",
+    "uptimeWeek": "29.06%",
+    "uptimeMonth": "29.06%",
+    "uptimeYear": "29.06%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-08": 0
+      "2023-08-08": 3
     }
   }
 ]
