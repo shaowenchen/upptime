@@ -14,14 +14,11 @@ sites:
   - name: chatgpt.chenshaowen.com
     url: https://chatgpt.chenshaowen.com
     maxResponseTime: 1000
-  - name: net.chenshaowen.com-tcp
-    check: "tcp-ping"
-    url: net.chenshaowen.com
-    port: 443
-    maxResponseTime: 1000
   - name: net.chenshaowen.com
     url: https://net.chenshaowen.com
     maxResponseTime: 1000
+    expectedStatusCodes:
+      - 400
   - name: www
     url: $WWW_URL
     maxResponseTime: 1000
