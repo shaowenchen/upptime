@@ -3,8 +3,16 @@ owner: shaowenchen # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Chenshaowen
+  - name: www.chenshaowen.com
     url: https://www.chenshaowen.com
+    icon: https://www.chenshaowen.com/favicon.ico
+    maxResponseTime: 2000
+  - name: www.chenshaowen.com-tcp
+    check: "tcp-ping"
+    url: www.chenshaowen.com
+    port: 53
+    icon: https://www.chenshaowen.com/favicon.ico
+    maxResponseTime: 2000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
