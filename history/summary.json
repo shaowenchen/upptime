@@ -118,9 +118,9 @@
     "url": "$CHAINS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chains",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -130,6 +130,7 @@
     "timeMonth": 277,
     "timeYear": 344,
     "dailyMinutesDown": {
+      "2023-11-08": 0,
       "2023-08-08": 274
     }
   },
