@@ -9,14 +9,11 @@ sites:
   - name: chatgpt.chenshaowen.com
     url: https://chatgpt.chenshaowen.com
     maxResponseTime: 1000
-  - name: net.chenshaowen.com
-    url: https://net.chenshaowen.com
+  - name: network
+    url: $NETWORK_URL
     maxResponseTime: 1000
     expectedStatusCodes:
       - 400
-  - name: www
-    url: $WWW_URL
-    maxResponseTime: 1000
   - name: account
     url: $ACCOUNT_URL
     maxResponseTime: 1000
@@ -32,8 +29,8 @@ sites:
   - name: data
     url: $DATA_URL
     maxResponseTime: 1000
-  - name: one-api
-    url: $ONE_API_URL
+  - name: oneapi
+    url: $ONEAPI_URL
     maxResponseTime: 1000
 
 status-website:
