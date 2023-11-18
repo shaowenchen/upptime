@@ -29,8 +29,8 @@ sites:
   - name: data
     url: $DATA_URL
     maxResponseTime: 1000
-  - name: oneapi
-    url: $ONEAPI_URL
+  - name: aiapi
+    url: $AIAPI_URL
     maxResponseTime: 1000
 
 status-website:
