@@ -29,8 +29,8 @@ sites:
   - name: data
     url: $DATA_URL
     maxResponseTime: 1000
-  - name: aiapi
-    url: $AIAPI_URL
+  - name: llmapi
+    url: $LLMAPI_URL
     maxResponseTime: 1000
 
 status-website:
