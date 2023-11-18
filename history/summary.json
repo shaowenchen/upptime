@@ -166,19 +166,19 @@
     "url": "$LLMAPI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "llmapi",
-    "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
+    "time": 112,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {
-      "2023-11-18": 32
+      "2023-11-18": 43
     }
   }
 ]
