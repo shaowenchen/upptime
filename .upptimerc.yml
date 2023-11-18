@@ -17,17 +17,29 @@ sites:
   - name: account
     url: $ACCOUNT_URL
     maxResponseTime: 1000
+  - name: accountapi
+    url: $ACCOUNTAPI_URL
+    maxResponseTime: 1000
   - name: payment
     url: $PAYMENT_URL
     maxResponseTime: 1000
-  - name: chains
-    url: $CHAINS_URL
+  - name: paymentapi
+    url: $PAYMENTAPI_URL
+    maxResponseTime: 1000
+  - name: chainsapi
+    url: $CHAINSAPI_URL
     maxResponseTime: 1000
   - name: upload
     url: $UPLOAD_URL
     maxResponseTime: 1000
+  - name: uploadapi
+    url: $UPLOADAPI_URL
+    maxResponseTime: 1000
   - name: data
     url: $DATA_URL
+    maxResponseTime: 1000
+  - name: dataapi
+    url: $DATAAPI_URL
     maxResponseTime: 1000
   - name: llmapi
     url: $LLMAPI_URL
