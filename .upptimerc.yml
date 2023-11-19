@@ -26,9 +26,6 @@ sites:
   - name: paymentapi
     url: $PAYMENTAPI_URL
     maxResponseTime: 1000
-  - name: chainsapi
-    url: $CHAINSAPI_URL
-    maxResponseTime: 1000
   - name: upload
     url: $UPLOAD_URL
     maxResponseTime: 1000
