@@ -158,19 +158,19 @@
     "url": "$UPLOADAPI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "uploadapi",
-    "status": "degraded",
-    "uptime": "99.85%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 373,
-    "timeDay": 814,
-    "timeWeek": 435,
-    "timeMonth": 373,
-    "timeYear": 373,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 371,
+    "timeDay": 719,
+    "timeWeek": 427,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2023-11-27": 20
+      "2023-11-27": 36
     }
   },
   {
