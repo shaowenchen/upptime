@@ -1,7 +1,7 @@
 url: $UPLOADAPI_URL
-status: up
-code: 200
-responseTime: 203
-lastUpdated: 2023-11-30T23:13:42.608Z
+status: degraded
+code: 503
+responseTime: 5213
+lastUpdated: 2023-12-01T16:54:40.544Z
 startTime: 2023-11-18T01:27:10.422Z
 generator: Upptime <https://github.com/upptime/upptime>
