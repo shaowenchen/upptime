@@ -81,18 +81,20 @@
     "url": "$ACCOUNTAPI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "accountapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 228,
-    "timeDay": 285,
-    "timeWeek": 244,
-    "timeMonth": 228,
-    "timeYear": 228,
-    "dailyMinutesDown": {}
+    "time": 227,
+    "timeDay": 254,
+    "timeWeek": 241,
+    "timeMonth": 227,
+    "timeYear": 227,
+    "dailyMinutesDown": {
+      "2023-12-14": 0
+    }
   },
   {
     "name": "payment",
