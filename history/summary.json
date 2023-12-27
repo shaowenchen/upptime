@@ -22,18 +22,19 @@
     "url": "https://chatgpt.chenshaowen.com",
     "icon": "https://icons.duckduckgo.com/ip3/chatgpt.chenshaowen.com.ico",
     "slug": "chatgpt-chenshaowen-com",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 382,
-    "timeDay": 163,
-    "timeWeek": 135,
-    "timeMonth": 452,
-    "timeYear": 382,
+    "time": 468,
+    "timeDay": 6960,
+    "timeWeek": 1838,
+    "timeMonth": 855,
+    "timeYear": 468,
     "dailyMinutesDown": {
+      "2023-12-27": 0,
       "2023-11-29": 23,
       "2023-09-29": 17
     }
@@ -44,19 +45,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 622,
     "timeDay": 163,
     "timeWeek": 166,
     "timeMonth": 767,
     "timeYear": 622,
-    "dailyMinutesDown": {
-      "2023-12-27": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "account",
