@@ -4,18 +4,20 @@
     "url": "https://www.chenshaowen.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chenshaowen.com.ico",
     "slug": "www-chenshaowen-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
-    "timeDay": 84,
-    "timeWeek": 105,
+    "timeDay": 118,
+    "timeWeek": 111,
     "timeMonth": 134,
     "timeYear": 154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-28": 0
+    }
   },
   {
     "name": "chatgpt.chenshaowen.com",
