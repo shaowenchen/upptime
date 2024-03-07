@@ -206,18 +206,20 @@
     "url": "$DATAAPI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 118,
-    "timeWeek": 180,
+    "timeDay": 142,
+    "timeWeek": 178,
     "timeMonth": 169,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   },
   {
     "name": "llmapi",
