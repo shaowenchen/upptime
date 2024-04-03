@@ -1,7 +1,7 @@
 url: $NETWORK_URL
-status: down
-code: 502
-responseTime: 300
-lastUpdated: 2024-04-03T19:46:42.447Z
+status: up
+code: 400
+responseTime: 290
+lastUpdated: 2024-04-03T20:22:34.727Z
 startTime: 2023-11-17T23:58:37.449Z
 generator: Upptime <https://github.com/upptime/upptime>
