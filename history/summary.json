@@ -45,19 +45,19 @@
     "url": "$NETWORK_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "network",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 338,
-    "timeDay": 281,
-    "timeWeek": 240,
-    "timeMonth": 202,
+    "timeDay": 284,
+    "timeWeek": 246,
+    "timeMonth": 204,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2024-04-03": 0
+      "2024-04-03": 36
     }
   },
   {
