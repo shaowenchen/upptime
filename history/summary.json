@@ -68,9 +68,9 @@
     "url": "$ACCOUNT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "account",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.78%",
@@ -80,6 +80,7 @@
     "timeMonth": 204,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2024-05-19": 0,
       "2024-05-13": 22,
       "2023-11-17": 895
     }
@@ -89,9 +90,9 @@
     "url": "$ACCOUNTAPI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "accountapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -101,6 +102,7 @@
     "timeMonth": 235,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2024-05-19": 0,
       "2024-05-13": 22
     }
   },
@@ -109,9 +111,9 @@
     "url": "$PAYMENT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "payment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.77%",
@@ -121,6 +123,7 @@
     "timeMonth": 180,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2024-05-19": 0,
       "2024-05-13": 22,
       "2023-11-18": 21,
       "2023-11-17": 895
@@ -131,9 +134,9 @@
     "url": "$PAYMENTAPI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paymentapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -143,6 +146,7 @@
     "timeMonth": 219,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2024-05-19": 0,
       "2024-05-13": 22
     }
   },
@@ -151,9 +155,9 @@
     "url": "$UPLOAD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "upload",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.77%",
@@ -163,6 +167,7 @@
     "timeMonth": 187,
     "timeYear": 229,
     "dailyMinutesDown": {
+      "2024-05-19": 0,
       "2024-05-13": 22,
       "2023-11-18": 121,
       "2023-11-17": 821
@@ -173,9 +178,9 @@
     "url": "$UPLOADAPI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "uploadapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -185,6 +190,7 @@
     "timeMonth": 285,
     "timeYear": 307,
     "dailyMinutesDown": {
+      "2024-05-19": 0,
       "2024-05-13": 22,
       "2023-12-01": 87,
       "2023-11-27": 36
@@ -195,9 +201,9 @@
     "url": "$DATA_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.50%",
@@ -207,6 +213,7 @@
     "timeMonth": 176,
     "timeYear": 255,
     "dailyMinutesDown": {
+      "2024-05-19": 0,
       "2024-05-13": 22,
       "2023-11-18": 13,
       "2023-11-17": 903,
@@ -220,9 +227,9 @@
     "url": "$DATAAPI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -232,6 +239,7 @@
     "timeMonth": 188,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2024-05-19": 0,
       "2024-05-13": 22,
       "2024-03-07": 16
     }
@@ -241,9 +249,9 @@
     "url": "$LLMAPI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "llmapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -253,6 +261,7 @@
     "timeMonth": 195,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2024-05-19": 0,
       "2024-05-13": 22,
       "2023-12-01": 27,
       "2023-11-18": 43
