@@ -1,7 +1,7 @@
 url: $PAYMENTAPI_URL
 status: up
 code: 200
-responseTime: 172
-lastUpdated: 2024-06-16T23:17:06.927Z
+responseTime: 250
+lastUpdated: 2024-06-17T23:15:11.967Z
 startTime: 2023-11-18T01:27:06.912Z
 generator: Upptime <https://github.com/upptime/upptime>
