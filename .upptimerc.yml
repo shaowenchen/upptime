@@ -6,9 +6,6 @@ sites:
   - name: www.chenshaowen.com
     url: https://www.chenshaowen.com
     maxResponseTime: 1000
-  - name: chatgpt.chenshaowen.com
-    url: https://chatgpt.chenshaowen.com
-    maxResponseTime: 1000
   - name: network
     url: $NETWORK_URL
     maxResponseTime: 1000
