@@ -1,7 +1,7 @@
 url: $ACCOUNTAPI_URL
-status: degraded
+status: up
 code: 200
-responseTime: 15054
-lastUpdated: 2025-04-22T22:38:31.283Z
+responseTime: 767
+lastUpdated: 2025-04-22T22:50:59.969Z
 startTime: 2023-11-18T01:27:05.682Z
 generator: Upptime <https://github.com/upptime/upptime>
