@@ -1,7 +1,7 @@
 url: $NETWORK_URL
-status: degraded
+status: up
 code: 400
-responseTime: 2559
-lastUpdated: 2025-04-25T21:54:47.875Z
+responseTime: 498
+lastUpdated: 2025-04-25T22:22:07.208Z
 startTime: 2023-11-17T23:58:37.449Z
 generator: Upptime <https://github.com/upptime/upptime>
