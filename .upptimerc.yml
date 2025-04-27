@@ -33,7 +33,9 @@ sites:
   - name: llmapi
     url: $LLMAPI_URL
     maxResponseTime: 1000
-
+  - name: ghproxy
+    url: $GHPROXY_URL
+    maxResponseTime: 1000
 status-website:
   cname: upptime.chenshaowen.com
   logoUrl: https://www.chenshaowen.com/logo.png
