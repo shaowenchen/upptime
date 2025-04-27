@@ -6,11 +6,6 @@ sites:
   - name: www.chenshaowen.com
     url: https://www.chenshaowen.com
     maxResponseTime: 1000
-  - name: network
-    url: $NETWORK_URL
-    maxResponseTime: 1000
-    expectedStatusCodes:
-      - 400
   - name: account
     url: $ACCOUNT_URL
     maxResponseTime: 1000
