@@ -39,3 +39,4 @@ sites:
 status-website:
   logoUrl: https://www.chenshaowen.com/logo.png
   name: Upptime
+  cname: upptime.chenshaowen.com
