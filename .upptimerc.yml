@@ -24,12 +24,6 @@ sites:
   - name: uploadapi
     url: $UPLOADAPI_URL
     maxResponseTime: 1000
-  - name: data
-    url: $DATA_URL
-    maxResponseTime: 1000
-  - name: dataapi
-    url: $DATAAPI_URL
-    maxResponseTime: 1000
   - name: llmapi
     url: $LLMAPI_URL
     maxResponseTime: 1000
