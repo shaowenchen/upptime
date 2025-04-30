@@ -36,3 +36,6 @@ sites:
   - name: ghproxy
     url: $GHPROXY_URL
     maxResponseTime: 1000
+status-website:
+  logoUrl: https://www.chenshaowen.com/logo.png
+  name: Upptime
