@@ -208,18 +208,19 @@
     "url": "$GHPROXY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ghproxy",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 192,
-    "timeDay": 185,
-    "timeWeek": 151,
-    "timeMonth": 299,
-    "timeYear": 192,
+    "time": 197,
+    "timeDay": 806,
+    "timeWeek": 310,
+    "timeMonth": 334,
+    "timeYear": 197,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-11-18": 198
     }
   }
