@@ -1,7 +1,7 @@
 url: $LLMAPI_URL
-status: degraded
+status: up
 code: 200
-responseTime: 1296
-lastUpdated: 2026-01-15T14:19:16.350Z
+responseTime: 486
+lastUpdated: 2026-01-15T14:46:59.003Z
 startTime: 2023-11-18T00:12:31.509Z
 generator: Upptime <https://github.com/upptime/upptime>
