@@ -214,9 +214,9 @@
     "url": "$GHPROXY_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ghproxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -226,6 +226,7 @@
     "timeMonth": 152,
     "timeYear": 190,
     "dailyMinutesDown": {
+      "2026-02-05": 0,
       "2025-12-26": 31,
       "2025-11-18": 198
     }
