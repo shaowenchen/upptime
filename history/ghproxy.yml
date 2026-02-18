@@ -1,7 +1,7 @@
 url: $GHPROXY_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-18T16:09:24.314Z
+status: up
+code: 200
+responseTime: 245
+lastUpdated: 2026-02-18T17:19:03.068Z
 startTime: 2025-04-27T01:31:46.161Z
 generator: Upptime <https://github.com/upptime/upptime>
