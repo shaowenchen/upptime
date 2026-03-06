@@ -1,7 +1,7 @@
 url: $ACCOUNTAPI_URL
-status: up
-code: 200
-responseTime: 378
-lastUpdated: 2026-03-06T10:05:15.083Z
+status: down
+code: 404
+responseTime: 195
+lastUpdated: 2026-03-06T20:34:43.420Z
 startTime: 2023-11-18T01:27:05.682Z
 generator: Upptime <https://github.com/upptime/upptime>
