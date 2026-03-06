@@ -1,7 +1,7 @@
 url: $PAYMENTAPI_URL
-status: down
-code: 404
-responseTime: 321
-lastUpdated: 2026-03-06T05:33:00.493Z
+status: up
+code: 200
+responseTime: 296
+lastUpdated: 2026-03-06T07:24:36.157Z
 startTime: 2023-11-18T01:27:06.912Z
 generator: Upptime <https://github.com/upptime/upptime>
