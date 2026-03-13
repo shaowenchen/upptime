@@ -1,7 +1,7 @@
 url: $ACCOUNTAPI_URL
-status: down
+status: degraded
 code: 404
-responseTime: 376
-lastUpdated: 2026-03-13T01:24:22.100Z
+responseTime: 5310
+lastUpdated: 2026-03-13T15:55:36.869Z
 startTime: 2023-11-18T01:27:05.682Z
 generator: Upptime <https://github.com/upptime/upptime>
