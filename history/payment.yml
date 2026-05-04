@@ -1,7 +1,7 @@
 url: $PAYMENT_URL
-status: up
+status: degraded
 code: 200
-responseTime: 167
-lastUpdated: 2026-05-03T23:46:00.070Z
+responseTime: 1956
+lastUpdated: 2026-05-04T15:16:39.343Z
 startTime: 2023-08-08T02:28:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
