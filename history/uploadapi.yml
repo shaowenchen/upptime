@@ -1,7 +1,7 @@
 url: $UPLOADAPI_URL
 status: degraded
 code: 502
-responseTime: 15046
-lastUpdated: 2026-05-21T00:08:08.413Z
+responseTime: 15086
+lastUpdated: 2026-05-22T00:02:51.969Z
 startTime: 2023-11-18T01:27:10.422Z
 generator: Upptime <https://github.com/upptime/upptime>
